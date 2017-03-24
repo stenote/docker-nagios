@@ -1,0 +1,5 @@
+set sendmail="/usr/bin/msmtp"
+set use_from=yes
+set realname="nagios"
+set from=nagios@robot
+set envelope_from=yes
